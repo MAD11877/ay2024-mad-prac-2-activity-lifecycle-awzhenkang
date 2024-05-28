@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
             btnFollow.setText("Follow");
         }
 
+        // Button follow
         btnFollow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
